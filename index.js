@@ -83,4 +83,4 @@ bot.on("message", async message => {
 
 
 
-bot.login('NzUxMzM2NzE2OTMzMTM2NDE1.X1Hm2A.ppAtsuWQ0ZJ5OCAikyXOsI13p20');
+bot.login(process.env.token);
